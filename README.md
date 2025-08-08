@@ -95,4 +95,4 @@ Este projeto foi desenvolvido com fins educacionais, com o objetivo de aplicar c
 
 ## 🧑‍💻 Autora
 
-Desenvolvido por **Maria Isabelly** e ***Luís Guilherme*como parte dos estudos de Estrutura de Dados II.
+Desenvolvido por **Maria Isabelly** e **Luís Guilherme**como parte dos estudos de Estrutura de Dados II.
